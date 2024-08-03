@@ -42,10 +42,6 @@ Its IT Group is a dynamic and forward-thinking IT services and solutions provide
 - **ARKit Solutions**: Building immersive augmented reality experiences.
 - **RoomPlan API**: Developing applications using Apple's RoomPlan API for accurate room modeling and cost estimation.
 
-### Commitment to Education and Collaboration
-- **Continuous Learning**: We foster a culture of continuous improvement and staying updated with the latest technological trends.
-- **Collaboration**: Belief in the power of collaboration and mutual support within our teams.
-
 ## Our Mission
 Our mission is to empower businesses of all sizes by providing them with the technological tools they need to thrive in today's digital landscape. We serve a diverse range of clients, allowing them to outsource their tech needs to our skilled and dedicated team. What sets us apart is our commitment to staying up-to-date with the latest technologies and our ability to deliver AI and ML-intensive solutions that our competitors can't match.
 
@@ -56,7 +52,7 @@ At Its IT Group, we're not just about providing services but about creating valu
 
 ## Connect with Us
 Stay updated with our latest projects and offerings:
-- [Website](#https://www.itsitgroup.com/)
-- [LinkedIn](#https://www.linkedin.com/company/its-it-group)
+- [Website](https://www.itsitgroup.com/)
+- [LinkedIn](https://www.linkedin.com/company/its-it-group)
 
 Thank you for visiting our profile. Let's innovate together!
