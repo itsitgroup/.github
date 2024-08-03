@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./logo.jpeg" alt="Its IT Group Logo" width="200"/>
 </p>
+
 # Welcome to Its IT Group
 
 Its IT Group is a dynamic and forward-thinking IT services and solutions provider specializing in cutting-edge technologies such as AI/ML, Stable Diffusion, LLMs, Backend & App Development, and Cloud Computing. Our expertise lies in developing Computer Vision applications, custom ChatBots, and the integration of Stable Diffusion on the backend of websites or apps. We also excel in creating cloud-native applications and continually expand our service offerings to stay at the forefront of technological advancements.
