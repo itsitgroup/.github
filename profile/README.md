@@ -1,6 +1,6 @@
 <!-- ![Its IT Group Logo](./logo.jpeg) Replace with your actual logo URL -->
 <p align="center">
-  <img src="./logo.jpeg" alt="Its IT Group Logo" width="200"/>
+  <img src="./logo.jpeg" alt="Its IT Group Logo" height="200"/>
 </p>
 
 # Welcome to Its IT Group
